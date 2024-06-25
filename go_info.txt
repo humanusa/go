@@ -1,0 +1,43 @@
+set GO111MODULE=on
+
+go -w GO111MODULE=on
+
+go -help env
+
+go env 
+
+
+go mod init 	
+
+go mod tidy 
+
+go run .
+
+
+
+
+
+
+go env -u GO111MODULE
+
+go install gioui.org/cmd/gogio@latest
+
+go get gioui.org/cmd/gogio@latest
+
+GO111MODULE=on go get gioui.org/cmd/gogio@latest
+
+(cd && GO111MODULE=on go get -u golang.org/x/tools/cmd/goimports)
+
+
+python class see in vsc proper extension 
+
+python code analyzer and show proper details - like sap se24 
+
+android studio - 
+
+
+
+drag and drop html python go ui develoment 
+
+anvil 
+
